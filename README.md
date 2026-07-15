@@ -2,17 +2,17 @@
 
 ### 💻 Développeur Web Front-End
 
-Passionné par le développement web, je conçois des sites et des applications modernes en privilégiant un code propre, performant et maintenable. J'aime transformer des idées en projets concrets et relever de nouveaux défis techniques.
+Passionné par le développement web, je conçois des sites et des applications modernes en privilégiant un code propre, performant et maintenable. J'aime transformer des idées en projets concrets et découvrir de nouvelles technologies.
 
 ---
 
 ## 🚀 À propos de moi
 
 - 🌐 Développeur orienté **Front-End**
+- ⚛️ Développement d'applications avec **React** et **TypeScript**
 - 💻 Passionné par les technologies du web
 - ⚡ Soucieux des performances, de la qualité du code et de la maintenabilité
-- 📚 Toujours en train d'apprendre et d'explorer de nouvelles technologies
-- 🚀 J'aime créer des projets utiles et évoluer à travers chacun d'eux
+- 📚 Toujours en train d'apprendre et d'améliorer mes compétences
 
 ---
 
@@ -23,6 +23,8 @@ Passionné par le développement web, je conçois des sites et des applications 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Back-End
 
@@ -44,9 +46,9 @@ Passionné par le développement web, je conçois des sites et des applications 
 ## 🎯 Ce sur quoi je travaille
 
 - 🚀 Développement d'applications web modernes
+- ⚛️ Applications React & TypeScript
 - 🌍 Création de sites web responsives et performants
 - 📈 Développement d'outils et d'Expert Advisors en MQL4 / MQL5
-- ⚡ Optimisation des performances et de l'expérience utilisateur
 - 📖 Veille technologique et apprentissage continu
 
 ---
@@ -55,7 +57,7 @@ Passionné par le développement web, je conçois des sites et des applications 
 
 Vous trouverez sur ce profil une sélection de mes projets personnels et open source.
 
-> **Note :** Tous mes projets ne sont pas disponibles sur GitHub. Certains sont privés, développés dans un cadre spécifique ou encore en cours de développement.
+> **Note :** Tous mes projets ne sont pas disponibles sur GitHub. Certains sont privés, développés dans un cadre professionnel ou personnel, ou encore en cours de développement.
 
 ---
 
